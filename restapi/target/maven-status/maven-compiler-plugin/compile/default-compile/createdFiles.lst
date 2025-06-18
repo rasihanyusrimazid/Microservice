@@ -1,0 +1,6 @@
+com\teknologiinformasi\restapi\controller\ProdukController.class
+com\teknologiinformasi\restapi\repository\ProdukRepository.class
+com\teknologiinformasi\restapi\model\Produk.class
+com\teknologiinformasi\restapi\RestfulApiApplication.class
+com\teknologiinformasi\restapi\service\ProdukService.class
+com\teknologiinformasi\restapi\model\Int.class
